@@ -6,27 +6,27 @@
 <p align="center">Nesse projeto vamos vasculhar dentro de um enorme banco de dados, a procura de fatores e compostos que interferem negativamente na viabilidade celular.</p>
 
 <p align="center">
-        <img style= "border-radius: 25% 10%; " src="https://www.cchrflorida.org/wp-content/uploads/2015/05/Poison-Pill-Bottle.jpg" width="350x;" alt=""/>
+        <img " src="https://www.cchrflorida.org/wp-content/uploads/2015/05/Poison-Pill-Bottle.jpg" width="350x;" style= "border-radius: 25% 10%" ; alt=""/>
  <br />
 
 
 ## Objetivos
 ---
-<p align="left">Entender a relção tempo e viabilidade celular
+<p align="left">Entender a relação tempo e viabilidade celular
 
-Entener a relçao dose e viabilidade celular
+Entender a relação dose e viabilidade celular
 
 identificar os principais compostos que alteram negativamente a viabilidade celular
 
-Identificar os principais mecanismos de ação em celulas com viabilidade afetada.
+Identificar os principais mecanismos de ação em células com viabilidade afetada.
 
-Desenvolver um modelo de Machine Learning capaz de predizer a viabilidade de um grupo celular baseado na expressao de genes.</p>
+Desenvolver um modelo de Machine Learning capaz de predizer a viabilidade de um grupo celular baseado na expressão de genes.</p>
 
 
 
 ## Banco de dados
 ---
-<p align="center"> :pill: Para esse projeto foram utilizados dados modificados de um desafio do Laboratory innovation science at Harvard disponiblizados em uma competição no kaggle. :pill: </p>
+<p align="center"> :pill: Para esse projeto foram utilizados dados modificados de um desafio do Laboratory innovation science at Harvard disponibilizados em uma competição no kaggle. :pill: </p>
 
 ## Tabela de conteúdos
 ---
@@ -35,11 +35,11 @@ Desenvolver um modelo de Machine Learning capaz de predizer a viabilidade de um 
    * MATERIAIS, METÓDOS E BIBLIOTECAS
    * ANÁLISES
       * EXISTE INFLUÊNCIA DO TEMPO NA VIABILIDADE CELULAR?
-        * TEMPO - Análise 1 - Existe Influência do tempo na Viabilidade celular?
-        * [TEMPO - Análise 2 - Quais as celulas do controle que tem menor viabilidade coom 72hr?
+        * TEMPO - Análise 1 - Existe Influência do tempo na viabilidade celular?
+        * TEMPO - Análise 2 - Quais as células do controle que tem menor viabilidade com 72hr?
       * EXISTE INFLUENCIA DAS QUANTIDADE DE DOSES NA VIABILIDADE CELULAR?
-        * DOSE - Análise 1 - Existe Dimininuição da viavilidade após aplicação da primeira dose?
-        * DOSE - Análise 2 - Quais as drogas reponsaveis diminuiram os valores de viabilidade em mais experimentos?
+        * DOSE - Análise 1 - Existe Diminuição da viabilidade após aplicação da primeira dose?
+        * DOSE - Análise 2 - Quais as drogas são responsáveis  pela diminuição dos valores de viabilidade em mais experimentos?
         * DOSE - Análise 3 - Quais as MOA's foram mais ativadas quando a droga 87d714366 foi administrada
       * PREPARAÇÃO PARA ML
    * CONCLUSÃO
