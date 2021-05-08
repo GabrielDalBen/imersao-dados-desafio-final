@@ -31,9 +31,9 @@ Desenvolver um modelo de Machine Learning capaz de predizer a viabilidade de um 
 ## Tabela de conteúdos
 ---
 <!--ts-->
-   * [INTRODUÇÃO](#INTRODUÇÃO)
+   * INTRODUÇÃO
    * MATERIAIS, METÓDOS E BIBLIOTECAS
-   * [ANÁLISES](#ANÁLISES)
+   * ANÁLISES
       * EXISTE INFLUÊNCIA DO TEMPO NA VIABILIDADE CELULAR?
         * TEMPO - Análise 1 - Existe Influência do tempo na Viabilidade celular?
         * [TEMPO - Análise 2 - Quais as celulas do controle que tem menor viabilidade coom 72hr?
@@ -42,7 +42,7 @@ Desenvolver um modelo de Machine Learning capaz de predizer a viabilidade de um 
         * DOSE - Análise 2 - Quais as drogas reponsaveis diminuiram os valores de viabilidade em mais experimentos?
         * DOSE - Análise 3 - Quais as MOA's foram mais ativadas quando a droga 87d714366 foi administrada
       * PREPARAÇÃO PARA ML
-   * [CONCLUSÃO](#CONCLUSAO)
+   * CONCLUSÃO
 <!--te-->
 
 
