@@ -32,25 +32,31 @@ Desenvolver um modelo de Machine Learning capaz de predizer a viabilidade de um 
 ---
 <!--ts-->
    * INTRODUÇÃO
-   * MATERIAIS, METÓDOS E BIBLIOTECAS
+   * MATERIAIS, MÉTODOS E BIBLIOTECAS
    * ANÁLISES
-      * EXISTE INFLUÊNCIA DO TEMPO NA VIABILIDADE CELULAR?
+      * INFLUÊNCIA DO TEMPO NA VIABILIDADE CELULAR
         * TEMPO - Análise 1 - Existe Influência do tempo na viabilidade celular?
-        * TEMPO - Análise 2 - Quais as células do controle que tem menor viabilidade com 72hr?
-      * EXISTE INFLUENCIA DAS QUANTIDADE DE DOSES NA VIABILIDADE CELULAR?
+        * TEMPO - Análise 2 - Quais as células do controle tem menor viabilidade com 72hr?
+      * EXISTE INFLUENCIA DAS DOSES NA VIABILIDADE CELULAR
         * DOSE - Análise 1 - Existe Diminuição da viabilidade após aplicação da primeira dose?
-        * DOSE - Análise 2 - Quais as drogas são responsáveis  pela diminuição dos valores de viabilidade em mais experimentos?
-        * DOSE - Análise 3 - Quais as MOA's foram mais ativadas quando a droga 87d714366 foi administrada
+        * DOSE - Análise 2 - Quais as drogas são responsaveis por diminuir os valores de viabilidade em mais experimentos?
+        * DOSE - Análise 3 - Quais as MOA's foram mais ativadas quando a droga 87d714366 foi administrada?
       * PREPARAÇÃO PARA ML
    * CONCLUSÃO
+   * REFERÊNCIAS BIBLIOGRÁFICAS
 <!--te-->
 
 
 ## Status do Projeto
 ---
-<h4 align="center"> 
-	🚀  - Finalizado -  🚀
-</h4>
+<h4 align="center"> 🚀  - Finalizado -  🚀 </h4>
+
+## Conclusao
+---
+
+<p align="center">Foi observado durante toda a exploração como as células podem ser afetadas negativamente a ponto de perderem viabilidade. O tempo foi descartado como uma possível influência na inviabilidade de grupos celular, contudo a falta de suporte estatístico indica que um maior espaçamento temporal pode fornecer melhor compreensão para a relação tempo/viabilidade. Por outro lado, ficou evidente como alguns compostos podem ser letais a células. Mesmo em doses pequenas pode haver uma grande influência na vida celular. 
+
+Desse modo, é de grande importância compreender como cada droga interage em todos os tipos celulares do corpo humano. Sem esse conhecimento alguns compostos podem se transformar em verdadeiros venenos ao corpo humano. Curiosamente, mesmos essas moléculas super 'tóxicas' à maioria das células, ainda podem ter aplicações a saúde humana desde que entregues apenas as células alvo.</p>
 
 
 ### Autor
