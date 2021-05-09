@@ -44,6 +44,24 @@ Desenvolver um modelo de Machine Learning capaz de predizer a viabilidade de um 
       * PREPARAÇÃO PARA ML
    * CONCLUSÃO
    * REFERÊNCIAS BIBLIOGRÁFICAS
+   
+        :newspaper:www.medicalnewstoday.com/articles/323556#medical-research
+
+        :newspaper:www.medicalnewstoday.com/articles/323556#medical-practice
+
+        :newspaper:www.comciencia.br/como-o-metodo-cientifico-se-aplica-as-pesquisas-sobre-o-novo-coronavirus/
+
+        :newspaper:www.pfizer.com.br/sua-saude/biossimilares/medicamentos-biologicos
+
+        :newspaper:www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-40422009000300014
+
+        :newspaper:www.acamrj.org.br/como-e-feito-o-desenvolvimento-de-uma-nova-droga/
+
+        :newspaper:www.scielo.br/pdf/hcsm/v24n3/0104-5970-hcsm-24-03-0603.pdf
+
+        :newspaper:www.scielo.br/pdf/rbp/v22n1/v22n1a08.pdf
+
+        :newspaper:www.ncbi.nlm.nih.gov/pmc/articles/PMC2729321/#:~:text=NF%2D%CE%BAB%20can%20also%20prevent,conventional%20anti%2Dcancer%20therapies28 
 <!--te-->
 
 
